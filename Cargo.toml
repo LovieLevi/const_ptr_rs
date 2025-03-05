@@ -1,0 +1,9 @@
+[package]
+name = "const_ptr"
+description = "Implements a Const Pointer struct"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+authors = ["LeviLovie"]
+
+[dependencies]
