@@ -1,2 +1,3 @@
 # const_ptr_rs
-Const pointer struct
+
+Implements a Const Pointer struct

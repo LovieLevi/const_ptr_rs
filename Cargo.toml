@@ -1,9 +1,11 @@
 [package]
 name = "const_ptr"
 description = "Implements a Const Pointer struct"
+repository = "https://github.com/LeviLovie/const_ptr_rs"
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
 authors = ["LeviLovie"]
 
 [dependencies]
+once_cell = "1.20.3"
